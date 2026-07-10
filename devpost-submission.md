@@ -78,12 +78,15 @@ Video URL: TODO (optional)
 
 ## Screenshot Shot List
 
-The following local assets are available and should be chosen for the final form:
+Use these three screenshots in the final form:
+
+- `src/assets/screenshots/battle.png`: tactical trick battle with player and opponent state.
+- `src/assets/screenshots/reward.png`: Stardust reward and heat-shield economy.
+- `src/assets/screenshots/unlocked-route.png`: sunward route and locked Sun Core progression.
+
+Other available assets:
 
 - `src/assets/screenshots/intro.png`: animated opening/title treatment.
-- `src/assets/screenshots/battle.png`: tactical battle interface.
-- `src/assets/screenshots/reward.png`: Stardust reward state.
-- `src/assets/screenshots/unlocked-route.png`: heat-shield progression and unlocked route.
 - `src/assets/neptune-arena.png`: generated Neptune battle-scene art.
 - `src/assets/sun-core-arena.png`: generated Sun-core battle-scene art.
 

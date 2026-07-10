@@ -18,12 +18,13 @@
     "ai_usage": "",
     "codex_usage": ""
   },
-  "current_stage": "prepare-submission",
+  "current_stage": "submit-project",
   "completed_stages": [
     "start-hackathon",
     "review",
     "resources",
-    "prepare-submission"
+    "prepare-submission",
+    "submit-project"
   ],
   "rules_acknowledged": true,
   "learning": {
@@ -41,7 +42,10 @@
   },
   "submission": {
     "draft_file": "devpost-submission.md",
-    "status": "drafting"
+    "status": "submitted",
+    "project_id": 1323861,
+    "submission_id": 1075576,
+    "url": "https://devpost.com/software/solar-shred"
   },
-  "next_command": "submit-project"
+  "next_command": "hackathon-map"
 }

@@ -62,7 +62,7 @@ Not available. The project is currently a runnable local demo; use the testing i
 
 ## Public Repository Link
 
-TODO: Add the public source repository URL. The event requires a source-code link.
+https://github.com/bathrobe/solar-shred
 
 ## Demo Video
 
@@ -94,7 +94,7 @@ The runnable local app, source files, README, and screenshots exist. The current
 ## Known Limitations
 
 - Local-only demo; no deployed URL.
-- No public repository URL recorded yet.
+- The repository is public, but the game is currently run locally.
 - No saved progress between browser refreshes.
 - One tactical battle type, three tricks, and one upgrade path.
 - Generated art is used for battle backgrounds; animation and game interaction are code-driven.

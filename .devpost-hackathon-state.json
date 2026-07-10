@@ -1,0 +1,46 @@
+{
+  "plugin": "devpost-hackathon",
+  "version": 2,
+  "hackathon": {
+    "slug": "devpost-tiny-tools",
+    "name": "Tiny Tools Build Challenge",
+    "url": "https://devpost-tiny-tools.devpost.com/",
+    "selected": true,
+    "source": "featured"
+  },
+  "participant": {
+    "name": "",
+    "display_name": "Joe"
+  },
+  "project": {
+    "name": "Solar Shred",
+    "summary": "A compact tactical RPG where a skateboard-space-shuttle travels inward through an invented solar system toward a Sun-core treasure.",
+    "ai_usage": "",
+    "codex_usage": ""
+  },
+  "current_stage": "prepare-submission",
+  "completed_stages": [
+    "start-hackathon",
+    "review",
+    "resources"
+  ],
+  "rules_acknowledged": true,
+  "learning": {
+    "status": "active",
+    "current_step": "build",
+    "completed_steps": [
+      "onboard",
+      "scope",
+      "prd",
+      "spec",
+      "checklist"
+    ],
+    "plan_file": "docs/hackathon-build/scope.md",
+    "checklist_file": "docs/hackathon-build/checklist.md"
+  },
+  "submission": {
+    "draft_file": "devpost-submission.md",
+    "status": "drafting"
+  },
+  "next_command": "prepare-submission"
+}

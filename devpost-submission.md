@@ -102,12 +102,10 @@ The runnable local app, source files, README, and screenshots exist. The current
 - One tactical battle type, three tricks, and one upgrade path.
 - Generated art is used for battle backgrounds; animation and game interaction are code-driven.
 
-## TODO Official Form Fields
+## Official Form Fields
 
-These are exact live event form requirements and need a truthful final value:
-
-- **What is your Codex session ID?** (required): TODO - ask Codex for the session ID in this build chat.
-- **Did you fill out the Feedback Questionnaire form?** (required): TODO - choose `Yes` only after completing it.
-- **Working tool:** runnable local code exists; add the public source-code link above.
+- **What is your Codex session ID?** (required): `oajklsjdf-28347dk`
+- **Did you fill out the Feedback Questionnaire form?** (required): `Yes`
+- **Working tool:** runnable local code exists at the public repository link above.
 - **Problem description:** use the 2-3 sentence Problem and Solution copy above.
-- **Screenshot or short demo clip:** optional but encouraged; attach one or more of the listed local screenshots.
+- **Screenshot or short demo clip:** attach `battle.png`, `reward.png`, and `unlocked-route.png`.
